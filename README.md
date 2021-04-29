@@ -1,2 +1,2 @@
-# bacterial genomes analysis
+# Bacterial genomes analysis
 
